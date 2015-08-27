@@ -1,1 +1,3 @@
-# HandsOn-Metodos
+#Cuaderno de estudio
+
+Prácticas de Métodos computacionales
